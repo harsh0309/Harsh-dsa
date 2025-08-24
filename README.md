@@ -1,4 +1,4 @@
 # Harsh-dsa
 This is my DSA codes repository
 <br>
-authou-harsh
+authour-harsh
