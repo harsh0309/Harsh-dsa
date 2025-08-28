@@ -35,7 +35,7 @@ class LinkedList{
 
     void display(){
         Node* temp=head;
-        while(temp!=NULL){
+        while(temp){
             cout<<temp->val<<"->";
             temp=temp->next;
         }cout<<"NULL"<<endl;
